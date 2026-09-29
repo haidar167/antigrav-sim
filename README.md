@@ -139,21 +139,3 @@ python visuals/create_animation.py
 .\run.ps1
 ```
 
----
-
-## 💼 LinkedIn & Portfolio Story
-
-> **How We Taught an AI to "Cancel" Gravity**  
->  
-> True anti-gravity may be science fiction, but what if a machine learning agent could control thrust so precisely that an object behaves as if gravity vanished?  
->  
-> In **AntiGravSim**, I built a physics simulation in Gymnasium and trained a Proximal Policy Optimization (PPO) agent to balance Earth’s gravity ($9.81\text{ m/s}^2$).  
->  
-> 🔍 **Key Achievements:**  
-> • **99.5% Gravity Cancellation**: Net acceleration driven down to $0.05\text{ m/s}^2$.  
-> • **Sub-decimeter Precision**: Steady hovering at 1.0 m altitude with minimal drift.  
-> • **Zero Overshoot**: Autonomous takeoff from launch pad to steady equilibrium within 1.5 seconds.  
-> • **Telemetry HUD**: Real-time visualization with dynamic plume modeling and force metrics.  
->  
-> 🔗 Code & Plots: [GitHub Repository Link]  
-> \#ReinforcementLearning #MachineLearning #PhysicsSimulation #DeepRL #Robotics #Python
